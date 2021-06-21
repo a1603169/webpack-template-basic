@@ -1,1 +1,1 @@
-https://github.com/a1603169/webpack-template-basic.git
+https://cocky-aryabhata-31572d.netlify.app
